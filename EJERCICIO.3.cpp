@@ -13,7 +13,7 @@ int main()
     {
         cout << "el angulo es obtuso";
     }
-    else if(angulo=90)
+    else if(angulo==90)
     {
         cout << "el angulo es recto";
     }
