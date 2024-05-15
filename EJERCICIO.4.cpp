@@ -37,7 +37,6 @@ int main()
      {
         cout << "reprobo la materia" << endl;
      }
-
     return 0;
 
 

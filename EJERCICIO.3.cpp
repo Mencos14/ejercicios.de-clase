@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     float angulo;
-    cout << "ingrese algun angulo";
+    cout << "ingrese algun angulo: ";
     cin >> angulo;
     if(angulo <90)
     {
